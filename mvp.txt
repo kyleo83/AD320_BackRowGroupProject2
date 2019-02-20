@@ -7,4 +7,5 @@ Ability to delete posts as an admin
 Hide the submission date of posts
 Configurable # of comments per page
 Size limit on comments
-Post comment with email
+Post comment with email, name and comments
+Admin has ability to require/not require name, email, message
