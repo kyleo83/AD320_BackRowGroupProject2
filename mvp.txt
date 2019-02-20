@@ -9,3 +9,4 @@ Configurable # of comments per page
 Size limit on comments
 Post comment with email, name and comments
 Admin has ability to require/not require name, email, message
+Allow admin to look-up comments for deletion by user
